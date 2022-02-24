@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThePixelWarriorr
-- 👀 I’m interested in coding pytholearning new things
+- 👀 I’m interested in coding learning new things
 - 🌱 I’m currently learning python, and data security
 - 📫 How to reach me IDK?
 
